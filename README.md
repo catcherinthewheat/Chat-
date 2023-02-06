@@ -1,2 +1,2 @@
-npm run server running the server
-npm start - running the app
+npm run server running the server;
+npm start - running the app;
